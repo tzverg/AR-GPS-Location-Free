@@ -1,5 +1,5 @@
 # AR-GPS-Location-Free
-For those who do not have the means to purchase the plugin AR + GPS Location from the asset store. 
+For those who do not have the means to purchase the plugin AR + GPS Location from the asset store. I will upload new versions here and keep old versions.
 
 
 Don't forget to install AR Foundation!
