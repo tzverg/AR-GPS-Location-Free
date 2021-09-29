@@ -6,4 +6,4 @@ Don't forget to install AR Foundation!
 
 New Version 
 Previous Version 3.5.5: https://github.com/ARtronClassicStudio/AR-GPS-Location-Free/releases/tag/3.5.5
-Previous Version 3.5.3: ![Download](AR + GPS Location.unitypackage)
+Previous Version 3.5.3: [Download](https://github.com/ARtronClassicStudio/AR-GPS-Location-Free/blob/55f83b3b228342c3e18d29914091e1c1255659df/AR%20+%20GPS%20Location.unitypackage)
