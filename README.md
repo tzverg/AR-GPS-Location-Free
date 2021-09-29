@@ -1,8 +1,9 @@
 # AR-GPS-Location-Free
-For those who do not have the means to purchase the plugin AR + GPS Location from the asset store. After all, the new year is 2021, so the old pirate gives you this gift.
-Version 3.5.3 - December 02, 2020
+For those who do not have the means to purchase the plugin AR + GPS Location from the asset store. 
+
 
 Don't forget to install AR Foundation!
 
 New Version 
 Previous Version 3.5.5: https://github.com/ARtronClassicStudio/AR-GPS-Location-Free/releases/tag/3.5.5
+Previous Version 3.5.3:
